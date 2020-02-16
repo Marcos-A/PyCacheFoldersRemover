@@ -1,7 +1,7 @@
 # PyCacheFoldersRemover
-Remove every '__pycache__' folder with its content from your project.
+Remove every "__pycache__" folder with its content from your project.
 
-# Description
+# Description
 PyCacheFoldersRemover deletes every "__pycache__" folder within a given directory.
 
 Use wisely. Remember "__pycache__" files (which will be either .pyc or .pyo files) will make your program start faster,
